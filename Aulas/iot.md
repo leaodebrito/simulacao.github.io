@@ -31,7 +31,9 @@ O mundo físico encontra o mundo digital, e eles trabalham em conjunto
 ```
 meta
 
-elemento de formação de palavras, de origem grega, que exprime a ideia de mudança, união, transformação no vocabulário científico, e a ideia de nível superior, maior generalidade no vocabulário filosófico
+elemento de formação de palavras, de origem grega, que exprime a ideia de mudança, 
+união, transformação no vocabulário científico, e a ideia de nível superior, 
+maior generalidade no vocabulário filosófico
 ```
 
 
@@ -39,6 +41,8 @@ elemento de formação de palavras, de origem grega, que exprime a ideia de muda
 ## Quais tecnologias tornaram a IoT possível?
 
 Embora a ideia de IoT já exista há muito tempo, uma coleção de avanços recentes em diversas tecnologias diferentes tornou-a prática.
+
+
 
 **1. Acesso a tecnologia de sensores de baixo custo e baixa potência.**
 
@@ -52,9 +56,11 @@ Sensores acessíveis e confiáveis estão possibilitando a tecnologia IoT para m
 A lista de [aplicações possíveis](https://www.khomp.com/pt/37-aplicacoes-iot-para-o-seu-negocio/) para os sensores IoT pode ser enorme.
 
 
+
 **2. Conectividade**
 
 Uma série de protocolos de rede para a Internet facilitou a conexão de sensores à nuvem e a outras coisas para transferência eficiente de dados.
+
 
 
 **3. Plataformas de computação na nuvem**
@@ -62,9 +68,11 @@ Uma série de protocolos de rede para a Internet facilitou a conexão de sensore
  O aumento da disponibilidade de plataformas na nuvem permite que empresas e consumidores acessem a infraestrutura de que precisam para aumentar a escala sem precisar gerenciar tudo.
 
 
+
 **4. Machine learning e análise avançada**
 
  Com os avanços em machine learning e análise avançada, além do acesso a quantidades grandes e variadas de dados armazenados na nuvem, as empresas podem obter insights de maneira mais rápida e fácil. 
+
 
 
 **5. Inteligência artificial (IA) conversacional**
@@ -75,7 +83,7 @@ Uma série de protocolos de rede para a Internet facilitou a conexão de sensore
  ![IoT3](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/iot/iot3.png?raw=true)
  
  
- ## Quem pode se beneficiar com o IoT
+## Quem pode se beneficiar com o IoT
  
  As organizações mais adequadas para a IoT são aquelas que se beneficiariam do uso de dispositivos sensores em seus processos de negócios.
  
@@ -88,8 +96,10 @@ Uma série de protocolos de rede para a Internet facilitou a conexão de sensore
  7. Segurança
  
  
+ ______
 
 ## Referências
+
 
 [Entenda: o que é a Internet das Coisas? – TecMundo](https://www.youtube.com/watch?v=Bu0m9Iq_dTI)
 
