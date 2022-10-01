@@ -48,6 +48,6 @@ Modelos de referência
 Explicação de código
 
 ### Aula 6
-[IoT]()
+[IoT](/Aulas/iot.md)
 
 [Arquitetura Performativa]()
