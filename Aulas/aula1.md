@@ -161,16 +161,3 @@ Do ponto de vista teórico, [Oxman](https://www.researchgate.net/publication/233
 
 [ENSAIO DE PROJETO PERFORMATIVO PARA PAVILHÃO](http://www.nomads.usp.br/virus/virus19/?sec=7&item=1&lang=pt)
 
-
-_____
-
-
-
-# Mantido e desenvolvido por
-
-MsC. Bruno Leão
-Arquiteto e Urbanista
-Mestre e Doutorando
-
-Atualização: 19/08/2022
-
