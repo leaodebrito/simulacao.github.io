@@ -107,16 +107,9 @@ Embora o começo deste processo de digitalização tenha sido nos anos de 1960, 
 
 A simulação é definida como uma **experiência ou ensaio, realizado com o auxílio de modelos, para representação de distintos processos e fenômenos**
 
-```
-Simulação por computador, o uso de um computador para representar as
-respostas dinâmicas de um sistema pelo comportamento de outro sistema
-modelado a partir dele. Uma simulação usa uma descrição matemática, ou
-modelo, de um sistema real na forma de um programa de computador. Este
-modelo é composto por equações que duplicam as relações funcionais
-dentro do sistema real. Quando o programa é executado, a dinâmica
-matemática resultante forma um análogo do comportamento do sistema
-real, com os resultados apresentados na forma de dados.
-```
+
+**Simulação por computador, o uso de um computador para representar as respostas dinâmicas de um sistema pelo comportamento de outro sistema modelado a partir dele. Uma simulação usa uma descrição matemática, ou modelo, de um sistema real na forma de um programa de computador. Este modelo é composto por equações que duplicam as relações funcionais dentro do sistema real. Quando o programa é executado, a dinâmica matemática resultante forma um análogo do comportamento do sistema real, com os resultados apresentados na forma de dados.**
+
 
 Quando realizamos simulações, temos como objetivo verificar o comportamento de uma pessoa, de um objeto ou de um sistema em certos contextos que, embora não sejam idênticos aos reais, são os mais parecidos possíveis. Assim, é possível corrigir falhas ou erros antes de a experiência se realizar efetivamente na realidade.
 
