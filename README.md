@@ -19,8 +19,28 @@ _______
 
 ### Parte 1
 Aula 1 - Conceitos de simulação e otimização e suas relações com o BIM
-Aula 2 e 3 - Exercício guiado para de simulação de custo: Estudo de caso com Dynamo
+Aulas 2 e 3 - Exercício guiado para de simulação de custo: Estudo de caso com Dynamo
 
 ### Parte 2
-Aula 4 e 5 - Exercício guiado para de simulação: Estudo de caso com Dynamo
+Aulas 4 e 5 - Exercício guiado para de simulação: Estudo de caso com Dynamo
 Aula 6 - IoT (Internet of things) e Arquitetura Performativa
+
+
+_______
+
+## Material de aula
+
+### Aula 1
+[Conceitos de simulação e otimização]()
+
+### Aulas 2 e 3
+Modelos de referência
+Explicação de código
+
+### Aulas 4 e 5
+Modelos de referência
+Explicação de código
+
+### Aula 6
+[IoT]()
+[Arquitetura Performativa]()
