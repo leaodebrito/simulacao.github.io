@@ -43,4 +43,5 @@ Explicação de código
 
 ### Aula 6
 [IoT]()
+
 [Arquitetura Performativa]()
