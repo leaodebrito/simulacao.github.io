@@ -4,7 +4,7 @@ A internet não é apenas uma rede de computadores, **ela evoluiu para uma rede 
 
 Todas as informações de comunicação e compartilhamento com base em protocolos estipulados para obter reorganizações inteligentes, posicionamento, rastreamento, segurança e controle e até monitoramento on-line pessoal em tempo real, atualização on-line, controle e administração de processos.
 
-![IoT1]()
+![IoT1](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/iot/iot1.png?raw=true)
 
 ## O que é IoT?
 
@@ -12,7 +12,7 @@ A Internet das Coisas (IoT) descreve a **rede de objetos físicos incorporados a
 
 Esses dispositivos variam de objetos domésticos comuns a ferramentas industriais sofisticadas. Com mais de 7 bilhões de dispositivos IoT conectados hoje, os especialistas esperam que esse número cresça para 10 bilhões em 2020 e 22 bilhões em 2025. 
 
-![IoT2]()
+![IoT2](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/iot/iot2.png?raw=true)
 
 
 
@@ -72,7 +72,7 @@ Uma série de protocolos de rede para a Internet facilitou a conexão de sensore
  Os avanços nas redes neurais trouxeram o NLP (natural-language processing, processamento de linguagem natural) aos dispositivos de IoT (como assistentes pessoais digitais Alexa, Cortana e Siri) e os tornaram atraentes, acessíveis e viáveis para uso doméstico.
  
  
- ![IoT3]()
+ ![IoT3](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/iot/iot3.png?raw=true)
  
  
  ## Quem pode se beneficiar com o IoT
