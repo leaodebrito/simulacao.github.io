@@ -1,2 +1,8 @@
-# simulacao.github.io
-Repositório da disciplina Ferramentas e Simulações em Modelos Paramétricos
+# Ferramentas de Simulação em Modelos Paramétricos
+
+
+Prof. Bruno Leão de Brito - bruno.brito@fieb.org.br
+
+
+## Programa da disciplina
+
