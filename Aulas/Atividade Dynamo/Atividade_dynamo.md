@@ -1,10 +1,5 @@
 # Simulações de projeto com Dynamo/Revit
 
-## Lógica do experimento
-
-No link abaixo esta anexo a construção mental feita no nosso primeiro encontro que irá guiar nossas proximas atividades
-- [Mapa Mental](/Aulas/Atividade%20Dynamo/Ferramentas%20e%20simulações.pdf)
-
 
 ## O Dynamo
 
@@ -26,3 +21,14 @@ Abaixo segue alguns links de referência sobre o Dynamo
 - [Biblioteca de nós](https://dictionary.dynamobim.com/#/Analyze)
 - [Vídeos tutoriais](https://dynamobim.org/#videoTut)
 
+
+
+## Lógica do experimento
+
+No link abaixo esta anexo a construção mental feita no nosso primeiro encontro que irá guiar nossas proximas atividades
+- [Mapa Mental](/Aulas/Atividade%20Dynamo/Ferramentas%20e%20simulações.pdf)
+
+
+## A Edificação 
+A tipologia de edificação que iremos desenvolver e simular é a seguinte:
+![Quiosque](/Aulas/Atividade%20Dynamo/imagens%20e%20mais/Quiosque.png)
