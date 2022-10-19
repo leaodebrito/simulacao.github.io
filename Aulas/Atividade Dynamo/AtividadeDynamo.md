@@ -36,4 +36,30 @@ A tipologia de edificação que iremos desenvolver e simular é a seguinte:
 
 
 
-## 
+## O código para simulação
+
+### programação e algoritmos (um resumo)
+A programação informática é o ato de compor os elementos da linguagem de programação selecionada pela ordem que provocará o efeito desejado. O efeito pode ser diferente em cada caso específico - depende da imaginação, conhecimento e experiência do programador.
+É claro que tal composição tem de ser correta em muitos sentidos:
+
+- **alfabeticamente** - um programa precisa de ser escrito num guião reconhecível, tal como romano, cirílico, etc.
+- **lexicamente** - cada linguagem de programação tem o seu dicionário e é preciso dominá-lo; felizmente, é muito mais simples e menor do que o dicionário de qualquer língua natural;
+- **sintaticamente** - cada linguagem tem as suas regras, e estas devem ser obedecidas;
+- **semanticamente** - o programa tem de fazer sentido.
+
+### Nosso código
+Para desenvolver nossa simulação, vamos dividir nosso código em dois tipos de linguagem diferentes. A programação visual Dynamo e a linguaguem script Python.
+Essa divisão será da seguinte maneira:
+
+**Programação visual**
+1. Estrutura de linhas para modelagem
+2. Atribuição das famílias paramétricas
+3. Levantamentos de parãmetros
+
+**Python**
+1. Cálculo de pré-dimensionamento dos elementos estruturais
+2. Cálculo dos insumos para orçamento
+3. Cálculo dos valores de custos
+
+
+*_aos poucos eu irei alimentando com os códigos e algumas cositas mais..._
