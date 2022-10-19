@@ -32,7 +32,7 @@ No link abaixo esta anexo a construção mental feita no nosso primeiro encontro
 ## A Edificação 
 A tipologia de edificação que iremos desenvolver e simular é a seguinte:
 
-![Quiosque](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/AtividadeDynamo/imagem/Quiosque.png)
+![Quiosque](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/AtividadeDynamo/imagem/Quiosque.png?raw=true)
 
 
 
