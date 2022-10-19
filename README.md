@@ -40,12 +40,10 @@ _______
 [Conceitos de simulação e otimização](/Aulas/aula1.md)
 
 ### Aulas 2 e 3
-Modelos de referência
-Explicação de código
+[Dados de referência, modelos e mais - Revit / Dynamo](/Aulas/Atividade%20Dynamo/Atividade_dynamo.md)
 
 ### Aulas 4 e 5
-Modelos de referência
-Explicação de código
+Dados de referência, modelos e mais
 
 ### Aula 6
 [IoT](/Aulas/iot.md)
