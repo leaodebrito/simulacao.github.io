@@ -40,7 +40,7 @@ _______
 [Conceitos de simulação e otimização](/Aulas/aula1.md)
 
 ### Aulas 2 e 3
-[Dados de referência, modelos e mais - Revit / Dynamo](/Aulas/Atividade%20Dynamo/Atividade_dynamo.md)
+[Dados de referência, modelos e mais - Revit / Dynamo](/Aulas/aula1.md)
 
 ### Aulas 4 e 5
 Dados de referência, modelos e mais
