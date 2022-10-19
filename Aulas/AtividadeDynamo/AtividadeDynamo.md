@@ -50,7 +50,7 @@ A programação informática é o ato de compor os elementos da linguagem de pro
 Para desenvolver nossa simulação, vamos dividir nosso código em dois tipos de linguagem diferentes. A programação visual Dynamo e a linguaguem script Python.
 Essa divisão será da seguinte maneira:
 
-**Programação visual**
+**[Programação visual](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/AtividadeDynamo/imagem/algoritmoDynamo.png?raw=true)**
 1. Estrutura de linhas para modelagem
 2. Atribuição das famílias paramétricas
 3. Levantamentos de parãmetros
