@@ -31,4 +31,5 @@ No link abaixo esta anexo a construção mental feita no nosso primeiro encontro
 
 ## A Edificação 
 A tipologia de edificação que iremos desenvolver e simular é a seguinte:
+
 ![Quiosque](/Aulas/Atividade%20Dynamo/imagens%20e%20mais/Quiosque.png)
