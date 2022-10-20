@@ -26,7 +26,7 @@ Abaixo segue alguns links de referência sobre o Dynamo
 ## Lógica do experimento
 
 No link abaixo esta anexo a construção mental feita no nosso primeiro encontro que irá guiar nossas proximas atividades
-- [Mapa Mental](/Aulas/Atividade%20Dynamo/Ferramentas%20e%20simulações.pdf)
+- [Mapa Mental](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/AtividadeDynamo/Ferramentas%20e%20simulações.pdf)
 
 
 ## A Edificação 
