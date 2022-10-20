@@ -53,10 +53,73 @@ Essa divisão será da seguinte maneira:
 **[Programação visual](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/AtividadeDynamo/imagem/algoritmoDynamo.png?raw=true)**
 1. Estrutura de linhas para modelagem
 2. Atribuição das famílias paramétricas
-3. Levantamentos de parãmetros
+3. Inserção de valores em parâmetros
+4. Levantamentos de parãmetros
+
 
 **Python**
 1. Cálculo de pré-dimensionamento dos elementos estruturais
+
+**Terças e vigas; e**
+```
+#Altura da viga
+
+vao = IN[0]
+material = IN[1]
+intesidade_carga = IN[2]
+
+if material == "concreto":
+    if intesidade_carga == 1:
+        altura_viga = vao * 0.08
+    elif intesidade_carga == 2:
+        altura_viga = vao * 0.10
+elif material == "madeira":
+    if intesidade_carga == 1:
+        altura_viga = vao * 0.10
+    elif intesidade_carga == 2:
+        altura_viga = vao * 0.12
+
+OUT = altura_viga
+```
+
+```
+#Base da Viga
+
+altura_viga = IN[0]
+
+OUT = altura_viga * (2/3)
+```
+
+**Pilares**
+```
+import math
+
+raio = IN[0]
+lado = IN[1]
+carga_do_piso = IN[2]
+material = IN[3]
+
+
+# Equação para definir o valor da apótema. Distancia ortogonal do centro ao lado do polígono
+apotema = math.sqrt((raio ** 2) - ((lado ** 2)/4))
+
+#pilares de concreto
+area_de_influencia = (lado * apotema)/2
+#carga sobre pilar
+carga_no_pilar = (area_de_influencia * carga_do_piso)
+
+#condicional de calculo da seção
+#considerar unidade de peso em kgf/cm²
+if material == "concreto":
+    area_da_secao = carga_no_pilar/100
+elif material == "madeira":
+    area_da_secao = carga_no_pilar/60
+
+
+OUT = math.sqrt(area_da_secao)
+```
+
+
 2. Cálculo dos insumos para orçamento
 3. Cálculo dos valores de custos
 
