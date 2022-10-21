@@ -1,5 +1,13 @@
 # Simulações de projeto com Dynamo/Revit
 
+## Programação e algoritmos (um resumo)
+A programação informática é o ato de compor os elementos da linguagem de programação selecionada pela ordem que provocará o efeito desejado. O efeito pode ser diferente em cada caso específico - depende da imaginação, conhecimento e experiência do programador.
+É claro que tal composição tem de ser correta em muitos sentidos:
+
+- **alfabeticamente** - um programa precisa de ser escrito num guião reconhecível, tal como romano, cirílico, etc.
+- **lexicamente** - cada linguagem de programação tem o seu dicionário e é preciso dominá-lo; felizmente, é muito mais simples e menor do que o dicionário de qualquer língua natural;
+- **sintaticamente** - cada linguagem tem as suas regras, e estas devem ser obedecidas;
+- **semanticamente** - o programa tem de fazer sentido.
 
 ## O Dynamo
 
@@ -21,34 +29,32 @@ Abaixo segue alguns links de referência sobre o Dynamo
 - [Biblioteca de nós](https://dictionary.dynamobim.com/#/Analyze)
 - [Vídeos tutoriais](https://dynamobim.org/#videoTut)
 
-
+_____
 
 ## Lógica do experimento
 
 No link abaixo esta anexo a construção mental feita no nosso primeiro encontro que irá guiar nossas proximas atividades
 - [Mapa Mental](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/AtividadeDynamo/Ferramentas%20e%20simulações.pdf)
 
+_____
 
 ## A Edificação 
 A tipologia de edificação que iremos desenvolver e simular é a seguinte:
+
+- Quiosque de planta regular com pilares distribuídos perimetralmente;
+- Fundação em concreto armado
+- Estrutura em concreto armado ou madeira
+- Cobertura em concreto armado ou madeira
 
 ![Quiosque](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/AtividadeDynamo/imagem/Quiosque.png?raw=true)
 
 
 ## O código para simulação
 
-### programação e algoritmos (um resumo)
-A programação informática é o ato de compor os elementos da linguagem de programação selecionada pela ordem que provocará o efeito desejado. O efeito pode ser diferente em cada caso específico - depende da imaginação, conhecimento e experiência do programador.
-É claro que tal composição tem de ser correta em muitos sentidos:
-
-- **alfabeticamente** - um programa precisa de ser escrito num guião reconhecível, tal como romano, cirílico, etc.
-- **lexicamente** - cada linguagem de programação tem o seu dicionário e é preciso dominá-lo; felizmente, é muito mais simples e menor do que o dicionário de qualquer língua natural;
-- **sintaticamente** - cada linguagem tem as suas regras, e estas devem ser obedecidas;
-- **semanticamente** - o programa tem de fazer sentido.
-
 ### Nosso código
 Para desenvolver nossa simulação, vamos dividir nosso código em dois tipos de linguagem diferentes. A programação visual Dynamo e a linguaguem script Python.
 Essa divisão será da seguinte maneira:
+
 
 **[Programação visual](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/AtividadeDynamo/imagem/algoritmoDynamo.png?raw=true)**
 1. Estrutura de linhas para modelagem
@@ -57,7 +63,7 @@ Essa divisão será da seguinte maneira:
 4. Levantamentos de parãmetros
 
 
-**Python**
+**[Python](https://github.com/leaodebrito/simulacao.github.io/tree/main/Aulas/AtividadeDynamo/BlocosDeCodigo)**
 1. Cálculo de pré-dimensionamento dos elementos estruturais
 
 **Terças e vigas; e**
