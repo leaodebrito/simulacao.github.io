@@ -16,10 +16,13 @@ area_de_influencia = (lado * apotema)/2
 carga_no_pilar = (area_de_influencia * carga_do_piso)
 
 #condicional de calculo da seção
-#considerar unidade de peso em kgf/cm²
-if material == "concreto":
+#considerar unidade de peso em kN/m2
+#Material:
+# 1 - Concreto
+# 2 - Madeira
+if material == 1:
     area_da_secao = carga_no_pilar/100
-elif material == "madeira":
+elif material == 1:
     area_da_secao = carga_no_pilar/60
 
 

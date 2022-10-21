@@ -62,18 +62,19 @@ Essa divisão será da seguinte maneira:
 
 **Terças e vigas; e**
 ```
-#Altura da viga
-
 vao = IN[0]
 material = IN[1]
 intesidade_carga = IN[2]
 
-if material == "concreto":
+#Material: 
+# 1 - Concreto
+# 2 - Madeira
+if material == 1:
     if intesidade_carga == 1:
         altura_viga = vao * 0.08
     elif intesidade_carga == 2:
         altura_viga = vao * 0.10
-elif material == "madeira":
+elif material == 2:
     if intesidade_carga == 1:
         altura_viga = vao * 0.10
     elif intesidade_carga == 2:
@@ -109,10 +110,13 @@ area_de_influencia = (lado * apotema)/2
 carga_no_pilar = (area_de_influencia * carga_do_piso)
 
 #condicional de calculo da seção
-#considerar unidade de peso em kgf/cm²
-if material == "concreto":
+#considerar unidade de peso em kN/m2
+#Material: 
+# 1 - Concreto
+# 2 - Madeira
+if material == 1:
     area_da_secao = carga_no_pilar/100
-elif material == "madeira":
+elif material == 1:
     area_da_secao = carga_no_pilar/60
 
 
