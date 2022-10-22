@@ -1,5 +1,3 @@
-#TODO: Inserir código na explicação da atividade
-
 comprimento_viga = IN[0]
 base_viga = IN[1]
 altura_viga = IN[2]
