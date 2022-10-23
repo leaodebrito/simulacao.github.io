@@ -39,13 +39,9 @@ _______
 ### Aula 1
 [Conceitos de simulação e otimização](/Aulas/aula1.md)
 
-### Aulas 2 e 3
+### Aulas 2, 3, 4 e 5
 [Dados de referência, modelos e mais - Revit / Dynamo](/Aulas/AtividadeDynamo/AtividadeDynamo.md)
-
-### Aulas 4 e 5
-Dados de referência, modelos e mais
 
 ### Aula 6
 [IoT](/Aulas/iot.md)
 
-[Arquitetura Performativa]()

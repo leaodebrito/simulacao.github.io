@@ -9,6 +9,7 @@ A programação informática é o ato de compor os elementos da linguagem de pro
 - **sintaticamente** - cada linguagem tem as suas regras, e estas devem ser obedecidas;
 - **semanticamente** - o programa tem de fazer sentido.
 
+_____
 ## O Dynamo
 
 O Dynamo é uma ferramenta de código aberto, portanto gratuita, desenvolvida para estender as funcionalidades do Autodesk Revit. Nas versões mais recentes do Revit a instalação do Dynamo é automática, mas também está disponível para download em DynamoBIM.org.
@@ -48,7 +49,7 @@ A tipologia de edificação que iremos desenvolver e simular é a seguinte:
 
 ![Quiosque](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/AtividadeDynamo/imagem/Quiosque.png?raw=true)
 
-
+_____
 ## O código para simulação
 
 ### Nosso código
@@ -64,9 +65,10 @@ Essa divisão será da seguinte maneira:
 
 
 **[Python](https://github.com/leaodebrito/simulacao.github.io/tree/main/Aulas/AtividadeDynamo/BlocosDeCodigo)**
-1. Cálculo de pré-dimensionamento dos elementos estruturais
 
-**Terças e vigas; e**
+1. **Cálculo de pré-dimensionamento dos elementos estruturais**
+
+a.Terças e vigas
 ```
 vao = IN[0]
 material = IN[1]
@@ -97,7 +99,7 @@ altura_viga = IN[0]
 OUT = altura_viga * (2/3)
 ```
 
-**Pilares**
+b.Pilares
 ```
 import math
 
@@ -129,9 +131,114 @@ elif material == 1:
 OUT = math.sqrt(area_da_secao)
 ```
 
+_
+2. **Cálculo dos insumos para orçamento**
 
-2. Cálculo dos insumos para orçamento
-3. Cálculo dos valores de custos
+
+a.Quantificação da área de forma
+```
+comprimento_viga = IN[0]
+base_viga = IN[1]
+altura_viga = IN[2]
+
+comprimento_pilar = IN[3]
+lado_pilar = IN[4]
+
+quantidade_de_pilares = IN[5]
+quantidade_de_vigas = IN[6]
+
+material_pilares = IN[7]
+material_viga = IN[8]
+
+#área de
+
+#Calculo de forma das vigas
+if material_viga == 1:
+    forma_viga = ((base_viga + (altura_viga * 2)) * comprimento_viga) * quantidade_de_vigas
+else:
+    forma_viga = 0
+
+#calculo de forma dos pilares
+if material_pilares == 1:
+    forma_pilar = ((lado_pilar * 4) * comprimento_pilar) * quantidade_de_pilares
+else:
+    forma_pilar = 0
+
+#quantidade total de formas
+total_forma = forma_pilar + forma_viga
+```
+
+b.Quantificação de volume de concreto
+```
+#Esse bloco de código também pode ser usado para calculo do volume de madeira desde que seja modificado a condicional
+
+quantidade_elementos = IN[0]
+volume_pilar = IN[1]
+volume_viga = IN[2]
+
+volume = (volume_viga * quantidade_elementos) + (volume_pilar * quantidade_elementos)
+
+OUT = volume
+```
+_
+3. **Cálculo dos valores de custos**
+
+
+```
+area_de_forma = IN[0]
+volume_de_concreto = IN[1]
+peso_de_aco = IN[2]
+volume_de_madeira = IN[3]
+
+custo_forma = IN[4]
+custo_concreto = IN[5]
+custo_madeira = IN[6]
+custo_aco = IN[7]
+
+#calculo do custo total
+custo_total = (area_de_forma * custo_forma) + (volume_de_concreto * custo_concreto) + (custo_madeira * volume_de_madeira) + (peso_de_aco * custo_aco)
+
+
+#Atribuição a variável de saída
+OUT = custo_total
+```
+
+Para baixar os arquivos .py basta clicar no link: [Código python no GitHub](https://github.com/leaodebrito/simulacao.github.io/blob/54bc2bc20d2881c5ac7cbd03c1a450e41b247216/Aulas/AtividadeDynamo/BlocosDeCodigo)
+
+___
+ ### Extração de dados
+Após a modelagem começa a etapa de extração de dados. Essa atividade também é feita através do Dynamo. Para isso, vamos usar o código composto pelos Nós apresentados na imagem abaixo
+
+![Código para extração de informações]()
+
+Após levantamento dos dados, é feito a quantificação dos elementos para que seja feita a estimativa de custo. Os código para essa parte estão na seção anterior.
+
+Depois da extração dos dados e da realização dos cálculos necessários, os dados deve ser escritos em uma planilha para que possamos analisa-los e consequentemente tomar uma decisão a cerca do projeto.
+O código para escrita dos dados no é apresentado na imagem abaixo.
+
+![Código para escrita de dados no excel]()
+
+As informações que serão extraídas (na ordem que aparecem na imagem) são:
+- Raio - IN[0]
+- Quantidade de lados - IN[1]
+- Altura da cobertura - IN[2]
+- Profundidade da fundação - IN[3]
+- Inclinação - IN[4]
+- Área do Quiosque - IN[5]
+- Intensidade da carga - IN[6]
+- Carregamento do pilar - IN[7]
+- Material da fundação - IN[8]
+- Material da estrutura - IN[9]
+- Material das terças da cobertura - IN[10]
+- Volume de concreto - IN[11]
+- Área de forma - IN[12]
+- Peso de aço - IN[13]
+- Volume de madeira - IN[14]
+- Custo total - IN[15]
+
+
+
+
 
 
 *_aos poucos eu irei alimentando com os códigos e algumas cositas mais..._
