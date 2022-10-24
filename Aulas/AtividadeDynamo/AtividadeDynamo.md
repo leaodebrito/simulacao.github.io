@@ -206,7 +206,7 @@ OUT = custo_total
 Para baixar os arquivos .py basta clicar no link: [Código python no GitHub](https://github.com/leaodebrito/simulacao.github.io/blob/54bc2bc20d2881c5ac7cbd03c1a450e41b247216/Aulas/AtividadeDynamo/BlocosDeCodigo)
 
 ___
- ### Extração de dados
+### Extração de dados
 Após a modelagem começa a etapa de extração de dados. Essa atividade também é feita através do Dynamo. Para isso, vamos usar o código composto pelos Nós apresentados na imagem abaixo
 
 ![Código para extração de informações]()
