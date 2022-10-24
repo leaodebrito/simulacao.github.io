@@ -209,14 +209,14 @@ ___
 ### Extração de dados
 Após a modelagem começa a etapa de extração de dados. Essa atividade também é feita através do Dynamo. Para isso, vamos usar o código composto pelos Nós apresentados na imagem abaixo
 
-![Código para extração de informações]()
+![Código para extração de informações](https://github.com/leaodebrito/simulacao.github.io/blob/b6759b7b9ade7bf48cbd7d9472d87135ba7a9769/Aulas/AtividadeDynamo/imagem/extrairDados.png)
 
 Após levantamento dos dados, é feito a quantificação dos elementos para que seja feita a estimativa de custo. Os código para essa parte estão na seção anterior.
 
 Depois da extração dos dados e da realização dos cálculos necessários, os dados deve ser escritos em uma planilha para que possamos analisa-los e consequentemente tomar uma decisão a cerca do projeto.
 O código para escrita dos dados no é apresentado na imagem abaixo.
 
-![Código para escrita de dados no excel]()
+![Código para escrita de dados no excel](https://github.com/leaodebrito/simulacao.github.io/blob/b6759b7b9ade7bf48cbd7d9472d87135ba7a9769/Aulas/AtividadeDynamo/imagem/escreverExvel.png)
 
 As informações que serão extraídas (na ordem que aparecem na imagem) são:
 - Raio - IN[0]
