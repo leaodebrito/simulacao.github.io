@@ -44,4 +44,5 @@ _______
 
 ### Aula 6
 [IoT](/Aulas/iot.md)
+[Arquitetura Performativa](/Aulas/arquiteturaPerformativa.md)
 
