@@ -1,7 +1,24 @@
 # Ferramentas de Simulação em Modelos Paramétricos
 
 
-Prof. Bruno Leão de Brito - bruno.brito@fieb.org.br
+Prof. Bruno Leão de Brito
+Arquiteto e Urbanista
+Mestre em Engenharia Civil
+
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Disciplina: Ferramentas de Simulação em Modelos Paramétricos**
+| :label: Tecnologias | Dynamo e Python
+| :rocket: URL         | -
+| :fire: Desafio     | -
+
+
+## Detalhes do projeto
+
+Disciplina lecionada na pós-graduação MBI BIM (_Master Business Innovation in Building Information Modeling_) do Centro Universitário Senai CIMATEC. Na disciplina foram abordados conceitos relativos a desenvolvimento de modelo geométricos computacionais com programação visual para simulação e análise de caracteristicas da construção e IoT. Os estudos desenvolvidos foram através da aplicação da linguagem de programação visual Dynamo e Python.
+
+Ao final foram discutidos os conceitos relativos a arquitetura performativa e seu uso no desenvolvimento de projetos de edificação.
 
 _______
 
