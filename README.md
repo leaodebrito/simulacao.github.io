@@ -9,7 +9,7 @@ Mestre em Engenharia Civil
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Disciplina: Ferramentas de Simulação em Modelos Paramétricos**
-| :label: Tecnologias | Dynamo e Python
+| :label: Tecnologias | Grasshopper e Python
 | :rocket: URL         | -
 | :fire: Desafio     | -
 
