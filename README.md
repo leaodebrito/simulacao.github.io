@@ -54,7 +54,8 @@ _______
 ## Material de aula
 
 ### Aula 1
-[Conceitos de simulação e otimização](/Aulas/aula1.md)
+[Porque fazemos simulações](Aulas/aula0.md)
+[Conceitos base de simulação e otimização](/Aulas/aula1.md)
 
 ### Aulas 2, 3, 4 e 5
 [Exercício guiado para de simulação de viabilidade financeira](Aulas/Atividade_Grasshopper/experimento_guiado_grasshopper.md)
