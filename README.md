@@ -54,7 +54,8 @@ _______
 ## Material de aula
 
 ### Aula 1
-[Porque fazemos simulações](Aulas/aula0.md)
+[Porque fazemos simulações?](Aulas/aula0.md)
+
 [Conceitos base de simulação e otimização](/Aulas/aula1.md)
 
 ### Aulas 2, 3, 4 e 5

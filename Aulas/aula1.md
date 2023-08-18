@@ -103,6 +103,7 @@ Embora o começo deste processo de digitalização tenha sido nos anos de 1960, 
  _____
 
 
+
 ## Simulação
 
 A simulação é definida como uma **experiência ou ensaio, realizado com o auxílio de modelos, para representação de distintos processos e fenômenos**
