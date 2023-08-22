@@ -65,8 +65,9 @@ O código que iremos desenvolver estará divido da seguinte maneira:
 
 
 ### Blocos de código de apoio
-Abaixo são disponibilizados blocos de códigos necessários para o desenvolvimento do modelo
+Abaixo são disponibilizados insumos e blocos de códigos necessários para o desenvolvimento do modelo
 
+- [Pologional de referência do trabalho](Aulas/Atividade_Grasshopper/Poligonal/Poligonal de referência.3dm)
 - [Quantificação de elementos estruturais de concreto armado](Aulas/Atividade_Grasshopper/blocos de código/Componentes de quantificação.gh)
 - [Extração de dados para CSV]()
 
