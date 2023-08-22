@@ -6,12 +6,12 @@ Arquiteto e Urbanista
 Mestre em Engenharia Civil
 
 
-| :placard: Vitrine.Dev |     |
+|Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Disciplina: Ferramentas de Simulação em Modelos Paramétricos**
-| :label: Tecnologias | Grasshopper e Python
-| :rocket: URL         | -
-| :fire: Desafio     | -
+|Nome        | **Disciplina: Ferramentas de Simulação em Modelos Paramétricos**
+|Tecnologias | Grasshopper e Python
+|URL         | -
+| Desafio     | -
 
 
 ## Detalhes do projeto
