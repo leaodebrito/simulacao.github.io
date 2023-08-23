@@ -40,7 +40,8 @@ _____
 ## Lógica do experimento
 
 No link abaixo esta anexo a construção mental feita no nosso primeiro encontro que irá guiar nossas proximas atividades
-- [Mapa Mental](/Aulas/Atividade_Grasshopper/esboco_experiemento/esboco_experimento.pdf)
+
+[Esboço da estrutura do modelo](Aulas/Atividade_Grasshopper/esboco_experiemento/esboco_experimento.pdf)
 
 _____
 
