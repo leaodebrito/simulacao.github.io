@@ -68,8 +68,8 @@ O código que iremos desenvolver estará divido da seguinte maneira:
 ### Blocos de código de apoio
 Abaixo são disponibilizados insumos e blocos de códigos necessários para o desenvolvimento do modelo
 
-- [Pologional de referência do trabalho](Aulas/Atividade_Grasshopper/Poligonal/Poligonal de referência.3dm)
-- [Quantificação de elementos estruturais de concreto armado](Aulas/Atividade_Grasshopper/blocos de código/Componentes de quantificação.gh)
+- [Pologional de referência do trabalho](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/Atividade_Grasshopper/Poligonal/Poligonal%20de%20referência.3dm)
+- [Quantificação de elementos estruturais de concreto armado](https://github.com/leaodebrito/simulacao.github.io/blob/main/Aulas/Atividade_Grasshopper/blocos%20de%20código/Componentes%20de%20quantificação.gh)
 - [Extração de dados para CSV]()
 
 _____
