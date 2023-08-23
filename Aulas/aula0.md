@@ -34,7 +34,7 @@ de forma mais abrangente.
  Podemos dizer que, nos como profissionais da construção, trabalhamos com sistemas complexos e que **_"fazemos" simulações para encontrar a melhor solução para um problema._**
 
 
-Essa [complexidade](Aulas/aula0-complexidade.md), que "força" o profissional da construção a fazer simulações pode ser entendida em três níveis diferentes:
+Essa [complexidade](/Aulas/aula0-complexidade.md), que "força" o profissional da construção a fazer simulações pode ser entendida em três níveis diferentes:
 1. Complexidade tectônica (forma, material e técnica)
 2. Complexidade da informação
 3. Complexidade processu
